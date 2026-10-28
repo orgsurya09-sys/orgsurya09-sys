@@ -4,25 +4,26 @@
 
 **Robotics Field Engineer | Aspiring Embedded Software Engineer**
 
-`Japan` · `Robotics` · `C / C++ / Python`
+<img alt="Japan" src="https://img.shields.io/badge/Japan-BC002D?style=for-the-badge">
+<img alt="JLPT N2" src="https://img.shields.io/badge/JLPT_N2-8B0000?style=for-the-badge">
+<img alt="Field Engineer" src="https://img.shields.io/badge/Field_Engineer-1F6FEB?style=for-the-badge">
 
 </div>
 
 ```text
 > 拠点    Japan
-> 現場    Autonomous mobile robots / unmanned forklifts
-> 学習中  C · Linux · ROS 2 · Embedded Software
+> 役割    Robot Engineer / Field Engineer
+> 学習中  C · Linux · Embedded Software
 > 目標    Embedded Software Engineer
 ```
 
 <p align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <img alt="ROS 2" src="https://img.shields.io/badge/ROS_2-0D1117?style=for-the-badge&logo=ros&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 </p>
 
 ---
@@ -45,16 +46,26 @@ I am a robotics field engineer based in Japan, working with autonomous mobile ro
 
 ---
 
+## 現場メモ / Field Note
+
+> 地図は現場ではない。ズレが見つかったところから、私の仕事が始まる。
+>
+> *The map is not the floor. My work begins where the two disagree.*
+>
+> — Working note
+
+---
+
 ## Technical Skills
 
 | Area | Skills | Context |
 |---|---|---|
 | Programming | C, C++, Python | NIELIT A Level coursework and personal projects |
 | OS & Tools | Linux, Git, GitHub, Visual Studio Code | Development and version control |
-| Robotics & Embedded | Raspberry Pi, PiCar-X, ROS 2 | Personal robotics experimentation and field engineering |
+| Robotics & Embedded | Raspberry Pi, PiCar-X | Personal robotics experimentation and field engineering |
 | Computer Vision | OpenCV | Basic experimentation and coursework |
 
-**Currently learning:** C for embedded software, Linux, ROS 2, and testing/debugging practices.
+**Currently learning:** C for embedded software, Linux, and testing/debugging practices.
 
 **Exploring:** Edge AI and computer vision for robotics.
 
@@ -66,7 +77,7 @@ I am still developing my programming and embedded software skills.
 
 - Strengthening C fundamentals and writing testable programs
 - Learning Linux-based development and embedded software basics
-- Practicing ROS 2 for robot-related software
+- Practicing clean C program structure and input validation
 - Improving debugging and manual test design
 
 ---
@@ -78,29 +89,35 @@ These are personal learning projects, not production systems.
 ### PiCar-X Robotics Project
 Personal robotics project using Raspberry Pi and PiCar-X.
 
-`Personal project` · `Repository not published`
+![Raspberry Pi — Personal](https://img.shields.io/badge/Raspberry_Pi-Personal-6E7681?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=C51A4A) · Repository not published
 
 ### Smart Electricity Meter Simulator
-`C` · Terminal application that calculates estimated electricity costs and identifies high consumption.
+Terminal application that calculates estimated electricity costs and identifies high consumption.
 
-`Complete` · [Repository](https://github.com/orgsurya09-sys/C-Language/tree/main/smart-electricity-meter)
+![C — Complete](https://img.shields.io/badge/C-Complete-2EA043?style=flat-square&logo=c&logoColor=white&labelColor=00599C) · [Repository](https://github.com/orgsurya09-sys/C-Language/tree/main/smart-electricity-meter)
 
 ### Vending Machine Simulator
-`C` · Terminal application for selecting a drink, inserting money, and calculating change.
+Terminal application for selecting a drink, inserting money, and calculating change.
 
-`Complete` · [Repository](https://github.com/orgsurya09-sys/C-Language/tree/main/vending-machine)
+![C — Complete](https://img.shields.io/badge/C-Complete-2EA043?style=flat-square&logo=c&logoColor=white&labelColor=00599C) · [Repository](https://github.com/orgsurya09-sys/C-Language/tree/main/vending-machine)
 
 ### Industrial Sensor Monitoring System
-`C` · Simulated sensor-monitoring program that checks temperature, voltage, and pressure against example limits.
+Simulated sensor-monitoring program that checks temperature, voltage, and pressure against example limits.
 
-`Complete` · [Repository](https://github.com/orgsurya09-sys/C-Language/tree/main/industrial-sensor-monitor)
+![C — Complete](https://img.shields.io/badge/C-Complete-2EA043?style=flat-square&logo=c&logoColor=white&labelColor=00599C) · [Repository](https://github.com/orgsurya09-sys/C-Language/tree/main/industrial-sensor-monitor)
 
 ---
 
 ## Certifications & Qualifications
 
 - **JLPT N2**
-- **NIELIT A Level** — Python, C, C++, SQL, Linux, MySQL
+- **NIELIT A Level — India**
+  - Python
+  - C
+  - C++
+  - SQL
+  - Linux
+  - MySQL
 - **Microsoft Certified: Azure AI Fundamentals (AI-901)**
 - **OpenCV University OpenCV Bootcamp**
 
