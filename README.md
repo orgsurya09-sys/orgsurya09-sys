@@ -135,8 +135,8 @@ My professional background is in robotics field engineering, not embedded softwa
 ## Links
 
 - GitHub: [orgsurya09-sys](https://github.com/orgsurya09-sys)
-- LinkedIn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
+- LinkedIn: [surya-kanta-rout](https://www.linkedin.com/in/surya-kanta-rout-5492a0280/)
+- Email: [org.surya09@gmail.com](mailto:org.surya09@gmail.com)
 - C projects: [C-Language repository](https://github.com/orgsurya09-sys/C-Language)
 
 ---
